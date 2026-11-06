@@ -88,3 +88,20 @@ Before public release, record the exact installed versions of Python, Biopython,
 ## Report
 
 The full scientific report is in `docs/HIV1_Protease_Computational_Project_Report.docx`.
+
+## Figures and Results
+
+### 1. Amino-acid conservation
+![Amino-acid conservation](results/figures/amino_acid_conservation.png)
+
+### 2. Most frequent amino-acid substitutions
+![Mutation frequency](results/figures/mutation_frequency.png)
+
+### 3. Predicted protease-inhibitor resistance profile
+![Drug resistance profile](results/figures/drug_resistance_profile.png)
+
+### Supporting data tables
+
+- [Amino-acid conservation](results/tables/amino_acid_conservation.csv)
+- [Mutation frequency](results/tables/mutation_frequency.csv)
+- [Drug resistance summary](results/tables/drug_resistance_summary.csv)
